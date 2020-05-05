@@ -1,0 +1,25 @@
+@font-face {
+font-family: 'main_font';
+font-style: normal;
+font-weight: normal;
+src: local('main_font'), url('./main_font.ttf') format('truetype');
+}
+@font-face {
+font-family: 'head-font';
+font-style: normal;
+font-weight: normal;
+src: local('headFont'), url('./headFont.ttf') format('truetype');
+}
+.background-pic {
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: -100px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -100;
+}
+div {
+  font-family: main_font;
+}
