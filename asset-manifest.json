@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.870292de.chunk.css",
+    "main.js": "/static/js/main.8bcd5ff9.chunk.js",
+    "main.js.map": "/static/js/main.8bcd5ff9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.20334eae.js",
+    "runtime-main.js.map": "/static/js/runtime-main.20334eae.js.map",
+    "static/css/2.f2ad0615.chunk.css": "/static/css/2.f2ad0615.chunk.css",
+    "static/js/2.115cfb19.chunk.js": "/static/js/2.115cfb19.chunk.js",
+    "static/js/2.115cfb19.chunk.js.map": "/static/js/2.115cfb19.chunk.js.map",
+    "static/css/3.0481794f.chunk.css": "/static/css/3.0481794f.chunk.css",
+    "static/js/3.0b80a711.chunk.js": "/static/js/3.0b80a711.chunk.js",
+    "static/js/3.0b80a711.chunk.js.map": "/static/js/3.0b80a711.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2c04f3808e029d01f5084bb8afec6423.js": "/precache-manifest.2c04f3808e029d01f5084bb8afec6423.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.f2ad0615.chunk.css.map": "/static/css/2.f2ad0615.chunk.css.map",
+    "static/css/3.0481794f.chunk.css.map": "/static/css/3.0481794f.chunk.css.map",
+    "static/css/main.870292de.chunk.css.map": "/static/css/main.870292de.chunk.css.map",
+    "static/js/2.115cfb19.chunk.js.LICENSE.txt": "/static/js/2.115cfb19.chunk.js.LICENSE.txt",
+    "static/media/Article-pic.jpeg": "/static/media/Article-pic.1af35008.jpeg",
+    "static/media/HomePic.jpg": "/static/media/HomePic.3729e967.jpg",
+    "static/media/Navbar.css": "/static/media/LogoFont.a59beb51.ttf",
+    "static/media/arrow.svg": "/static/media/arrow.572567ec.svg",
+    "static/media/arrows.svg": "/static/media/arrows.20b4b82a.svg",
+    "static/media/gmail.svg": "/static/media/gmail.78e4334f.svg",
+    "static/media/App.css": "/static/media/main_font.52e3a1f3.ttf",
+    "static/media/instagram.svg": "/static/media/instagram.c0817de3.svg",
+    "static/media/soundcloud.svg": "/static/media/soundcloud.6d015af0.svg",
+    "static/media/telegram.svg": "/static/media/telegram.67839ace.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.316cfa6d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20334eae.js",
+    "static/css/2.f2ad0615.chunk.css",
+    "static/js/2.115cfb19.chunk.js",
+    "static/css/main.870292de.chunk.css",
+    "static/js/main.8bcd5ff9.chunk.js"
+  ]
+}
